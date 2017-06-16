@@ -36,5 +36,5 @@
             "Tcg\\Voyager\\Tests\\": "tests/"
         }
     },
-    "minimum-stability": "beta"
+    "minimum-stability": "stable"
 }
