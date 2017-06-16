@@ -1,5 +1,5 @@
 {
-    "name": "tcg/voyager",
+    "name": "whb/wxyzadmin",
     "description": "framework for admin",
     "license": "MIT",
     "authors": [
@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "tcg\\Voyager\\": "src/"
+            "whb\\Voyager\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "tcg\\Voyager\\Tests\\": "tests/"
+            "whb\\Voyager\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "beta"
