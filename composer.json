@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "whb\\Voyager\\": "src/"
+            "Tcg\\Voyager\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "whb\\Voyager\\Tests\\": "tests/"
+            "Tcg\\Voyager\\Tests\\": "tests/"
         }
     },
     "minimum-stability": "beta"
